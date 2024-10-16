@@ -1,4 +1,4 @@
-23101309514669793
+23111771197442938
 6TPE150MAZB
 POSCAP_B1_B1S_B1G_B15G_B2_B2S
 POSCAP_B1_B1S_B1G_B15G_B2_B2S
@@ -55881,6 +55881,20 @@ emi filter
 5
 5
 Footprints
+009276002021106
+
+00-9276-002-021-106 
+0
+4
+4
+Footprints
+691709710302
+691709710302-2
+Connector
+0
+2
+2
+Footprints
 CAPPM7343X310N
 7343
 Capacitor Polarised
@@ -55944,6 +55958,13 @@ RED-BEET2.0
 40
 40
 Footprints
+RED-BEET_2.0
+
+
+0
+40
+40
+Footprints
 RESC3264X70N
 
 
@@ -55961,6 +55982,13 @@ Footprints
 SOIC127P600X175-8N
 8-Lead SOIC-ren2
 Integrated Circuit
+0
+8
+8
+Footprints
+SOIC127P620X160-8N
+BD6231F-E2
+Motor
 0
 8
 8
@@ -63594,6 +63622,20 @@ Yellow 5381 Series LED
 0
 2
 2
+Logo
+GLogo
+
+
+0
+0
+0
+Logo
+GLogoSmall
+
+
+0
+0
+0
 Logo
 GridlinxLogo
 

@@ -1,0 +1,20 @@
+Comment;Designator;Footprint;Supplier and ref
+4.7uF 0805 X5R 25V (or better);C9,C7,C1;C_0805_2012Metric;
+470k 0805 1% ;R1;R_0805_2012Metric;
+100nF (0.1uF) 0805 X5R 10V (or better) ;C8,C3;C_0805_2012Metric;
+MH;H1;MountingHole_3.2mm_M3_Pad_Via;
+MAX1595EUA50+;IC1;SOP65P490X110-8N;Analog Devices Inc./Maxim Integrated MAX1595EUA50+
+Q_PMOS_GSD;Q1;SOT-23;onsemi MOSFET P-CH 50V 130MA SOT23-3
+2.2uF 0805 X5R 25V (or better);C5,C4;C_0805_2012Metric;
+SMAJ5.0A;D4;D_SMA;Littelfuse Inc. TVS DIODE 5VWM 9.2VC DO214AC
+D_Schot;D5;D_DO-15_P10.16mm_Horizontal;Diotec Semiconductor 1N5819 (or similar)
+0.47uF 0805 X7R 50V (or better);C6;C_0805_2012Metric;
+JST_BH;J4;JST_GH_SM03B-GHS-TB_1x03-1MP_P1.25mm_Horizontal;JST Sales America Inc. SM03B-GHS-TB
+JST_PH;J1;JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal;JST Sales America Inc. S2B-PH-SM4-TB
+MCP73832-2-OT;U1;SOT-23-5;Microchip Technology MCP73832T-2ACI/OT
+LED GREEN CLEAR 0805 SMD;D1,D3;LED_0805_2012Metric;Würth Elektronik 150080VS75000 (or similar)
+470R 0805 1%;R2,R4;R_0805_2012Metric;
+MH;H2;MountingHole_2.2mm_M2_Pad_TopOnly;
+LTC4412xS6;U2;TSOT-23-6;Analog Devices Inc. LTC4412HVIS6#TRMPBF
+2k 0805 1%;R3;R_0805_2012Metric;
+10uF 16V X5R (or better);C2;C_0805_2012Metric;
