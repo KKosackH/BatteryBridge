@@ -662,6 +662,18 @@
     [
       "5e95e951-7871-40f6-afbb-b8706a3712de",
       "Root"
+    ],
+    [
+      "710688b6-2569-406a-ac92-f8a1d9162342",
+      "Converters"
+    ],
+    [
+      "1189a2e2-e7bf-4d52-a19c-8b8049b8650f",
+      "BatteryCharger"
+    ],
+    [
+      "5f222d19-cce3-4c7a-9869-623a740d1bc1",
+      "PowerPathController"
     ]
   ],
   "text_variables": {}
