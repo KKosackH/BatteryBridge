@@ -4060,28 +4060,6 @@
 		)
 		(uuid "28e56ad1-7a3e-4e7e-93c1-eb02ab421211")
 	)
-	(label "BUCK_OUT12"
-		(at 147.32 139.7 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "44e79166-9056-4846-9e2f-c40643908db2")
-	)
-	(label "BUCK_OUT"
-		(at 229.87 53.34 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4c2c4be0-9baf-4f95-ac59-81bb4f3aa566")
-	)
 	(label "RUN{slash}SS_5V"
 		(at 105.41 54.61 90)
 		(fields_autoplaced yes)
@@ -4103,17 +4081,6 @@
 			(justify left bottom)
 		)
 		(uuid "713e2b7a-374f-4659-a7a0-dcf18f95f835")
-	)
-	(label "BUCK_OUT"
-		(at 132.08 36.83 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "93cb83e9-1ae9-416f-8ac0-6d48caa16ef4")
 	)
 	(label "RUN{slash}SS_12V"
 		(at 24.13 144.78 90)
@@ -4158,6 +4125,72 @@
 			(justify left bottom)
 		)
 		(uuid "fe46a60b-435a-469b-ab31-c55e32a5e652")
+	)
+	(global_label "BUCK_OUT12"
+		(shape input)
+		(at 167.64 139.7 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "051b7f16-8135-45cd-aa7e-e1f80aeefc03")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 167.64 124.5591 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUCK_OUT"
+		(shape input)
+		(at 132.08 36.83 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6c8f93b5-70ee-4685-b485-914750404304")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 132.08 24.1081 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUCK_OUT"
+		(shape input)
+		(at 229.87 53.34 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ef761513-f7a9-4fbe-b43f-2ad2995e7bd4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 229.87 40.6181 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "power:+BATT")
@@ -5356,7 +5389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints:SOT95P284X110-6N"
+		(property "Footprint" "Package_SO:TSOP-6_1.65x3.05mm_P0.95mm"
 			(at 199.39 150.8 0)
 			(effects
 				(font
@@ -7447,7 +7480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints:DR125-2R2"
+		(property "Footprint" "Footprints:DR125-2R2-R"
 			(at 81.28 128.27 0)
 			(effects
 				(font
