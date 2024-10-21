@@ -4082,6 +4082,17 @@
 		)
 		(uuid "713e2b7a-374f-4659-a7a0-dcf18f95f835")
 	)
+	(label "sw_LTC12"
+		(at 93.98 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7a9ed12d-2f12-4acc-b39d-03e248923925")
+	)
 	(label "RUN{slash}SS_12V"
 		(at 24.13 144.78 90)
 		(fields_autoplaced yes)
@@ -4092,6 +4103,17 @@
 			(justify left bottom)
 		)
 		(uuid "b88f423f-23e3-4b58-ba60-bdf5019cc4de")
+	)
+	(label "sw_AP63"
+		(at 53.34 48.26 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c0997472-e420-45a4-8ca1-cdd944566586")
 	)
 	(label "BUCK_OUT12"
 		(at 48.26 125.73 0)
