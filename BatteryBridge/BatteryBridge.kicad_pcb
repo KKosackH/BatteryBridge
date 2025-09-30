@@ -1342,9 +1342,9 @@
 			(pintype "passive")
 			(uuid "188f75c4-b78c-4818-8f75-5064b40ec8bd")
 		)
-		(model "20SVPF120M.stp"
+		(model "D:/Dokumenter/Gridlinx/BatteryBridge/Lib/3dModels/16SVF180M.stp"
 			(offset
-				(xyz 0 0 0.4799999821)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -10634,6 +10634,17 @@
 			(thermal_bridge_angle 45)
 			(uuid "aef7975b-10fc-4a1b-8e37-f2e003754944")
 		)
+		(model "D:/Dokumenter/Gridlinx/BatteryBridge/Lib/3dModels/HCM1A0805-4R7-R.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
+			)
+		)
 	)
 	(footprint "Capacitor_SMD:C_0805_2012Metric"
 		(layer "F.Cu")
@@ -13860,7 +13871,7 @@
 			(zone_connect 2)
 			(uuid "50e53b05-592e-4cca-9292-78e7511afa1c")
 		)
-		(model "PDS1040-13.stp"
+		(model "D:/Dokumenter/Gridlinx/BatteryBridge/Lib/3dModels/PDS1040-13.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13868,7 +13879,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 -90)
+				(xyz -90 0 0)
 			)
 		)
 	)
@@ -14846,7 +14857,7 @@
 			(pintype "passive")
 			(uuid "7609470d-611b-403e-8f39-0354d6bfdf05")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -16488,6 +16499,17 @@
 			(thermal_bridge_angle 45)
 			(uuid "8aba7848-e5d1-4dc6-8593-427e029c9d00")
 		)
+		(model "D:/Dokumenter/Gridlinx/BatteryBridge/Lib/3dModels/DR125.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 90)
+			)
+		)
 	)
 	(footprint "Footprints:SOIC127P600X175-8N"
 		(layer "B.Cu")
@@ -16863,7 +16885,7 @@
 			(zone_connect 2)
 			(uuid "89b60252-be89-4079-b658-bd075fb4f0f0")
 		)
-		(model "TC1044SCOA.stp"
+		(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18898,7 +18920,7 @@
 			(pintype "passive")
 			(uuid "93a6e1be-950f-4aba-85e8-83dcbef16646")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-23-3.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23.step"
 			(offset
 				(xyz 0 0 0)
 			)
