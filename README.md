@@ -41,10 +41,10 @@ The schematic is organized hierarchically, with the root showing all user-intera
 ## PCB Images  
 
 ### Front Side  
-![BatteryBridge Front](https://github.com/KKosackH/BatteryBridge/tree/main/docs/Backside.png)  
+![BatteryBridge Front](https://github.com/KKosackH/BatteryBridge/blob/main/docs/Backside.PNG)  
 
 ### Back Side  
-![BatteryBridge Back](https://github.com/KKosackH/BatteryBridge/tree/main/docs/Frontside.png)  
+![BatteryBridge Back](https://github.com/KKosackH/BatteryBridge/blob/main/docs/Frontside.PNG)  
 
 ---
 
