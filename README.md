@@ -2,7 +2,7 @@
 
 The **BatteryBridge** is a PowerPath control circuit that ensures the essential electronics on the SwitchSystem PCB remain powered during grid disconnection.  
 
-The SwitchSystem PCB only receives power when the home charger is in **IEC 61851 state B/C** (charging mode). When transitioning from charging to discharging, the PCB would normally lose power. The BatteryBridge solves this by automatically switching to battery supply, keeping the system running seamlessly.  
+The SwitchSystem PCB only receives power when the home charger is in **IEC 61851 Control Pilot state C** (charging mode). When transitioning from charging to discharging, the PCB would normally lose power. The BatteryBridge solves this by automatically switching to battery supply, keeping the system running seamlessly.  
 
 ---
 
@@ -21,14 +21,14 @@ The BatteryBridge PCB consists of three main parts:
 2. PowerPath controller  
 3. Battery charger  
 
-For the prototype, a **3.7 V lab cell battery** was used. Long-life battery options are being evaluated with manufacturers to ensure durability of the add-on solution.  
+For the prototype, a **3.7V battery** was used. Long-life battery options are being evaluated with manufacturers to ensure durability of the add-on solution.  
 
 The schematic is organized hierarchically, with the root showing all user-interactable components.  
 
 ---
 
 ## Operation  
-- **State B/C (charging)**:  
+- **State C (charging)**:  
   - The battery charges.  
   - Outputs are disabled (system powered directly from charger).  
 
@@ -41,10 +41,10 @@ The schematic is organized hierarchically, with the root showing all user-intera
 ## PCB Images  
 
 ### Front Side  
-![BatteryBridge Front](https://github.com/KKosackH/BatteryBridge/blob/main/docs/Backside.PNG)  
+![BatteryBridge Back](https://github.com/KKosackH/BatteryBridge/blob/main/docs/Frontside.PNG)  
 
 ### Back Side  
-![BatteryBridge Back](https://github.com/KKosackH/BatteryBridge/blob/main/docs/Frontside.PNG)  
+![BatteryBridge Front](https://github.com/KKosackH/BatteryBridge/blob/main/docs/Backside.PNG)  
 
 ---
 
